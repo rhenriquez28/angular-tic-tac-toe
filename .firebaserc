@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ng-tic-tac-toe-1ce29": {
+      "hosting": {
+        "angular-tic-tac-toe": [
+          "ng-tic-tac-toe-1ce29"
+        ]
+      }
+    }
+  }
+}
